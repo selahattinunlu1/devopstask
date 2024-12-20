@@ -1,6 +1,0 @@
-server:
-  port: ${SERVER_PORT:8080}
-elasticsearch:
-  url: ${ELASTICSEARCH_URL:https://localhost:9200}
-  username: ${ELASTICSEARCH_USERNAME:elastic}
-  password: ${ELASTICSEARCH_PASSWORD:HJ2qDhTJjvaohSvlyydN}
